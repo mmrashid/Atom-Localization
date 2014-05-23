@@ -1,5 +1,6 @@
 [
   {"language":"Default", "path":"ThereCannotBeSpacesInThePath"},
+  {"language":"Bengali", "path":"../i18n/bengali.json"},
   {"language":"Chinese - Simplified", "path":"../i18n/chinese-simplified.json"},
   {"language":"Chinese - Traditional", "path":"../i18n/chinese-traditional.json"},
   {"language":"Danish", "path":"../i18n/danish.json"},
