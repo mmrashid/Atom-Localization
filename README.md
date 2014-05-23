@@ -5,6 +5,7 @@ Atom Localization provides translations for Atom Editor's menus.
 
 
 ###Supported Languages
+- Bengali
 - Chinese - Simplified
 - Chinese - Traditional
 - Danish
