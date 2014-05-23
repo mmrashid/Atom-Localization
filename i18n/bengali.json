@@ -1,0 +1,178 @@
+{
+  "menu":{
+    "Atom":{
+        "value":"এটম",
+        "submenu":{
+            "About Atom":{"value":"এটম পরিচিতি"},
+            "View License":{"value":"লাইসেন্স দেখুন"},
+            "Preferences...":{"value":"পছন্দসমুহ..."},
+            "Open Your Config":{"value":"আপনার কনফিগ খুলুন"},
+            "Open Your Init Script":{"value":"আপনার Init স্ক্রিপ্ট খুলুন"},
+            "Open Your Keymap":{"value":"আপনার কীম্যাপ খুলুন"},
+            "Open Your Snippets":{"value":"আপনার Snippets খুলুন"},
+            "Open Your Stylesheet":{"value":"আপনার স্টাইলশীট খুলুন"},
+            "Install Shell Commands":{"value":"শেল কমান্ড ইনস্টল করুন"},
+            "Hide Atom":{"value":"এটম আড়াল করুন"},
+            "Hide Others":{"value":"অন্য সব আড়াল করুন"},
+            "Show All":{"value":"সব প্রদর্শন করুন"},
+            "Quit":{"value":"এটম থেকে প্রস্থান করুন"},
+            "Check for Update":{"value":"আপডেট চেক করুন"}
+        }
+    },
+    "File":{
+        "value":"ফাইল",
+        "submenu":{
+            "New Window":{"value":"নতুন উইন্ডো"},
+            "New File":{"value":"নতুন ফাইল"},
+            "Open...":{"value":"খুলুন..."},
+            "Reopen Last Item":{"value":"শেষ আইটেম পুনরায় খুলুন"},
+            "Save":{"value":"সংরক্ষণ করুন"},
+            "Save As...":{"value":"অন্য ভাবে সংরক্ষণ..."},
+            "Save All":{"value":"সব সংরক্ষণ করুন"},
+            "Close Buffer":{"value":"বাফার বন্ধ করুন"},
+            "Close Pane":{"value":"প্যান বন্ধ করুন"},
+            "Close Window":{"value":"উইন্ডো বন্ধ করুন"}
+        }
+    },
+    "Edit":{
+        "value":"সম্পাদনা",
+        "submenu":{
+            "Undo":{"value":"পূর্বাবস্থায় ফিরুন"},
+            "Redo":{"value":"পুনরায় করুন"},
+            "Cut":{"value":"কাটা"},
+            "Copy":{"value":"অনুলিপি"},
+            "Copy Path":{"value":"পাথ অনুলিপি"},
+            "Paste":{"value":"প্রতিলেপন"},
+            "Select All":{"value":"সব নির্বাচন করুন"},
+            "Toggle Comments":{"value":"মন্তব্য টগল করুন"},
+            "Lines":{
+                "value":"লাইনস",
+                "submenu":{
+                    "Indent":{"value":"ইনডেন্ট"},
+                    "Outdent":{"value":"আউটডেন্ট"},
+                    "Auto Indent":{"value":"স্বয়ংক্রিয় ইনডেন্ট"},
+                    "Move Line Up":{"value":"লাইন উপরে নিয়ে যান"},
+                    "Move Line Down":{"value":"লাইন নিচে নিয়ে যান"},
+                    "Duplicate Lines":{"value":"লাইন ডুপ্লিকেট"},
+                    "Delete Line":{"value":"লাইন মুছে দিন"},
+                    "Join Lines":{"value":"লাইন যোগ করুন"}
+                }
+            },
+            "Text":{
+                "value":"টেক্সট",
+                "submenu":{
+                    "Upper Case":{"value":"বড়ো হাতের অক্ষর"},
+                    "Lower Case":{"value":"ছোট হাতের অক্ষর"},
+                    "Delete to End of Word":{"value":"শব্দের শেষ পর্যন্ত মুছুন"},
+                    "Delete Line":{"value":"লাইন মুছে ফেলুন"},
+                    "Transpose":{"value":"পক্ষান্তর করুন"}
+                }
+            },
+            "Folding":{
+                "value":"ফোল্ডিং",
+                "submenu":{
+                    "Fold":{"value":"ফোল্ড করুন"},
+                    "Unfold":{"value":"আনফোল্ড করুন"},
+                    "Unfold All":{"value":"সব আনফোল্ড করুন"},
+                    "Fold All":{"value":"সব ফোল্ড করুন"},
+                    "Fold Level 1":{"value":"ফোল্ড লেভেল ১"},
+                    "Fold Level 2":{"value":"ফোল্ড লেভেল ২"},
+                    "Fold Level 3":{"value":"ফোল্ড লেভেল ৩"},
+                    "Fold Level 4":{"value":"ফোল্ড লেভেল ৪"},
+                    "Fold Level 5":{"value":"ফোল্ড লেভেল ৫"},
+                    "Fold Level 6":{"value":"ফোল্ড লেভেল ৬"},
+                    "Fold Level 7":{"value":"ফোল্ড লেভেল ৭"},
+                    "Fold Level 8":{"value":"ফোল্ড লেভেল ৮"},
+                    "Fold Level 9":{"value":"ফোল্ড লেভেল ৯"}
+                }
+            },
+            "Go to Line":{"value":"লাইন এ যান"},
+            "Reflow Paragraph":{"value":"অনুচ্ছেদটি প্রবাহিত করুন"},
+            "Reflow Selection":{"value":"নির্বাচনটি প্রবাহিত করুন"},
+            "Bookmark":{
+                "value":"বুকমার্ক",
+                "submenu":{
+                    "View All":{"value":"সব দেখুন"},
+                    "Toggle Bookmark":{"value":"বুকমার্ক টগল করুন"},
+                    "Jump to Next Bookmark":{"value":"পরবর্তী বুকমার্ক যান"},
+                    "Jump to Previous Bookmark":{"value":"পূর্ববর্তী বুকমার্ক যান"}
+                }
+            },
+            "Select Grammar":{"value":"ব্যাকরণ নির্বাচন করুন"}
+        }
+    },
+    "Selection":{
+        "value":"নির্বাচন",
+        "submenu":{
+            "Add Selection Above":{"value":"উপরে নির্বাচন যোগ করুন"},
+            "Add Selection Below":{"value":"নীচে নির্বাচন যোগ করুন"},
+            "Split into Lines":{"value":"লাইনে ভাগ করুন"},
+            "Select to Top":{"value":"উপর পর্যন্ত নির্বাচন করুন"},
+            "Select to Bottom":{"value":"নীচ পর্যন্ত নির্বাচন করুন"},
+            "Select Line":{"value":"লাইন নির্বাচন করুন"},
+            "Select Word":{"value":"শব্দ নির্বাচন করুন"},
+            "Select to Beginning of Word":{"value":"শব্দের শুরু পর্যন্ত নির্বাচন করুন"},
+            "Select to Beginning of Line":{"value":"লাইনের শুরু পর্যন্ত নির্বাচন করুন"},
+            "Select to First Character of Line":{"value":"লাইনের প্রথম অক্ষর পর্যন্ত নির্বাচন করুন"},
+            "Select to End of Word":{"value":"শব্দের শেষ পর্যন্ত নির্বাচন করুন"},
+            "Select to End of Line":{"value":"লাইনের শেষ পর্যন্ত নির্বাচন করুন"}
+        }
+    },
+    "Find":{
+        "value":"অনুসন্ধান",
+        "submenu":{
+            "Find in Buffer":{"value":"বাফারের মধ্যে খুঁজুন"},
+            "Replace in Buffer":{"value":"বাফার এ প্রতিস্থাপন করুন"},
+            "Select Next":{"value":"পরবর্তী নির্বাচন করুন"},
+            "Select All":{"value":"সব নির্বাচন করুন"},
+            "Find in Project":{"value":"প্রজেক্ট এ খুঁজুন"},
+            "Find Next":{"value":"পরবর্তী খুঁজুন"},
+            "Find Previous":{"value":"পূর্ববর্তী খুঁজুন"},
+            "Replace Next":{"value":"পরবর্তী প্রতিস্থাপন করুন"},
+            "Replace All":{"value":"সব প্রতিস্থাপন করুন"},
+            "Find Buffer":{"value":"বাফার খুঁজুন"},
+            "Find File":{"value":"ফাইল খুঁজুন"},
+            "Find Modified File":{"value":"পরিবর্তিত ফাইল খুঁজুন"}
+        }
+    },
+    "View":{
+        "value":"প্রদর্শন",
+        "submenu":{
+            "Reload":{"value":"পুনরায় লোড করুন"},
+            "Toggle Full Screen":{"value":"সম্পূর্ণ স্ক্রিনে টগল করুন"},
+            "Developer":{
+                "value":"ডেভেলপার",
+                "submenu":{
+                    "Open In Dev Mode...":{"value":"ডেভেলপার মোড এ খুলুন ..."},
+                    "Run Atom Specs":{"value":"এটম বৈশিষ্ট্যসমুহ চালনা করুন"},
+                    "Run Package Specs":{"value":"প্যাকেজ বৈশিষ্ট্যসমুহ চালনা করুন"},
+                    "Toggle Developer Tools":{"value":"ডেভেলপার টুল এ টগল করুন"}
+                }
+            },
+            "Toggle Soft Wrap":{"value":"Soft Wrap এ টগল করুন"},
+            "Toggle Command Palette":{"value":"কমান্ড প্যালেট এ টগল করুন"},
+            "Toggle Tree View":{"value":"ট্রি ভিউ এ টগল করুন"},
+            "Toggle Tree Side":{"value":"ট্রি সাইড এ টগল করুন"}
+        }
+    },
+    "Packages":{
+        "value":"প্যাকেজসমুহ"
+    },
+    "Window":{
+        "value":"উইন্ডো",
+        "submenu":{
+            "Minimize":{"value":"ছোট করুন"},
+            "Zoom":{"value":"বড় করুন"},
+            "Bring All to Front":{"value":"সব সামনে আনুন"}
+        }
+    },
+    "Help":{
+        "value":"সাহায্য",
+        "submenu":{
+            "Documentation":{"value":"ডকুমেন্টেশন"},
+            "Send Feedback":{"value":"মতামত পাঠান"},
+            "Release Notes":{"value":"রিলিজ নোটস"}
+        }
+    }
+  }
+}
